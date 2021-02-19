@@ -6,12 +6,13 @@ font-family: comic sans ms;
 
 h2 {
   color: blue;
-  font-family: impact;
+  font-family: arial;
   font-size: 24pt;
 }
 
 p {
   color: white;
   background-color: black;
+  font-family: sans-serif;
   font-size: 12pt;
 }
